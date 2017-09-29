@@ -1,6 +1,5 @@
-package com.JavaLearning;
+package com.JavaLearning.JavaSELearning.Container;
 
-import com.JavaLearning.TestEnum;
 public class Math_and_file {
     public static void main(String[] args) {
         TestEnum t = TestEnum.left;
